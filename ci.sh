@@ -62,7 +62,7 @@ echo
 ## Solved issues
 ## Default: Commit skipped|forgotten
 
-git commit -m "Released v1.0.0 : init version"
+git commit -m "RENAMED ci.sh"
 
 ############
 # Step: 05 #
