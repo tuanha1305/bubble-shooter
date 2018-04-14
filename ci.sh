@@ -68,7 +68,7 @@ echo
 ## 💚 UPLOAD: alpha cr2017.Oct28.1.0.0
 ## 💚 UPLOAD: cr2018.Feb8.1.1.0
 
-git commit -m "💚 UPLOAD: cr2018.Feb8.1.1.0"
+git commit -m "UPLOAD: updated README.md"
 
 ############
 # Step: 05 #
