@@ -62,8 +62,10 @@ echo
 ## Solved issues
 ## Default: Commit skipped|forgotten
 
-## 2018.Apr14 RENAMED ci.sh
-git commit -m "💚 UPLOAD: pre-alpha cr2017.Oct10.0.1.0"
+# 2018.Apr14
+## RENAMED ci.sh
+## 💚 UPLOAD: pre-alpha cr2017.Oct10.0.1.0
+git commit -m "💚 UPLOAD: alpha cr2017.Oct28.1.0.0"
 
 ############
 # Step: 05 #
