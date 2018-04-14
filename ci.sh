@@ -31,7 +31,7 @@ git config --global user.name "Sakib Rahman"
 ############
 # Step: 02 #
 ############
- 
+
 echo [ Done ]  Initializing a new Git repo for this project.
 echo
 git init
@@ -62,7 +62,8 @@ echo
 ## Solved issues
 ## Default: Commit skipped|forgotten
 
-git commit -m "RENAMED ci.sh"
+## 2018.Apr14 RENAMED ci.sh
+git commit -m "💚 UPLOAD: pre-alpha cr2017.Oct10.0.1.0"
 
 ############
 # Step: 05 #
