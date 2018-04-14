@@ -65,7 +65,10 @@ echo
 # 2018.Apr14
 ## RENAMED ci.sh
 ## 💚 UPLOAD: pre-alpha cr2017.Oct10.0.1.0
-git commit -m "💚 UPLOAD: alpha cr2017.Oct28.1.0.0"
+## 💚 UPLOAD: alpha cr2017.Oct28.1.0.0
+## 💚 UPLOAD: cr2018.Feb8.1.1.0
+
+git commit -m "💚 UPLOAD: cr2018.Feb8.1.1.0"
 
 ############
 # Step: 05 #

@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_stick.ogg.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\raw\\stick.ogg"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_colourblind_5.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_colourblind_5.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_congrats.xml.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\layout\\congrats.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_levelselector.xml.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\layout\\levelselector.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_2.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_2.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_win_panel.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\win_panel.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_colourblind_7.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_colourblind_7.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_choose_level_01.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\choose_level_01.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_4.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_4.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_colourblind_3.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_colourblind_3.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_colourblind_1.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_colourblind_1.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_5.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_5.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_7.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_7.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lose_panel.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\lose_panel.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_colourblind_6.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_colourblind_6.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_choose_level_02.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\choose_level_02.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_backup.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\icon_backup.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_colourblind_4.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_colourblind_4.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_colourblind_8.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_colourblind_8.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_8.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_8.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_compressor.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\compressor.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_3.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_3.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_destroy_group.ogg.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\raw\\destroy_group.ogg"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_droid_1.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\droid_1.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_backup.xml.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\layout\\main_backup.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background02.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\background02.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_6.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_6.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_colourblind_2.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_colourblind_2.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_lose.ogg.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\raw\\lose.ogg"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_congratulations013.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\congratulations013.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_clappings.mp3.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\raw\\clappings.mp3"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_button.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\play_button.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_rebound.ogg.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\raw\\rebound.ogg"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_company_logo.xml.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\layout\\company_logo.xml"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_1.gif.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\bubble_1.gif"
+    },
+    {
+        "merged": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Dev\\Android\\2-Games\\BS\\github\\bubble-shooter\\app\\src\\main\\res\\drawable\\logo.png"
+    }
+]
